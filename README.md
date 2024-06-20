@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution](https://your-solution-url.com)
-- Live Site URL: [All my links](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/social-profile-links-website-1osYLFbviK)
+- Live Site URL: [All my links](https://allmylinks-dorian-taponzing-donfack.netlify.app/)
 
 ## My process
 
